@@ -3,7 +3,7 @@ package frontend
 import (
 	"bytes"
 	"fmt"
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 	"strings"
 	"syscall"
 	"time"

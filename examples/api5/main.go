@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/ziutek/dvb"
-	"github.com/ziutek/dvb/linuxdvb/frontend"
+	"github.com/vitmod/godvb"
+	"github.com/vitmod/godvb/linuxdvb/frontend"
 	"log"
 	"time"
 )

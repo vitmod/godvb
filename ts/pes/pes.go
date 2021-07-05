@@ -3,7 +3,7 @@ package pes
 import (
 	"time"
 
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 type Header []byte

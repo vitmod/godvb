@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 type PidFilter struct {

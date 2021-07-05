@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 )
 
 func die(s string) {

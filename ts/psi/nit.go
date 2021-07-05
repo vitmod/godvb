@@ -1,7 +1,7 @@
 package psi
 
 import (
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 )
 
 type NIT Table

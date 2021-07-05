@@ -1,7 +1,7 @@
 package psi
 
 import (
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 // SectionEncoder can encode sections into stream of MPEG-TS packets. It has

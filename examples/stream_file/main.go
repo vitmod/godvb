@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ziutek/dvb"
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb"
+	"github.com/vitmod/godvb/ts"
 )
 
 func die(i interface{}) {

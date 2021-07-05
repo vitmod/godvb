@@ -3,7 +3,7 @@ package psi
 import (
 	"time"
 
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 )
 
 var ErrTOTSectionSyntax = dvb.TemporaryError("incorrect TOT section syntax")

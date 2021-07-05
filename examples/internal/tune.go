@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/ziutek/dvb"
-	"github.com/ziutek/dvb/linuxdvb/frontend"
+	"github.com/vitmod/godvb"
+	"github.com/vitmod/godvb/linuxdvb/frontend"
 )
 
 func Tune(fpath, sys, pol string, freqHz int64, bwHz int, srBd uint) (fe frontend.Device, err error) {

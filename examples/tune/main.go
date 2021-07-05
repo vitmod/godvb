@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ziutek/dvb/linuxdvb/demux"
-	"github.com/ziutek/dvb/linuxdvb/frontend"
+	"github.com/vitmod/godvb/linuxdvb/demux"
+	"github.com/vitmod/godvb/linuxdvb/frontend"
 
-	"github.com/ziutek/dvb/examples/internal"
+	"github.com/vitmod/godvb/examples/internal"
 )
 
 func die(s string) {

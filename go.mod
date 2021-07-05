@@ -1,4 +1,4 @@
-module github.com/ziutek/dvb
+module github.com/vitmod/godvb
 
 go 1.13
 

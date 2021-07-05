@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 )
 
 // TODO: Reconsider all descriptors decoding/encoding code. Goals:

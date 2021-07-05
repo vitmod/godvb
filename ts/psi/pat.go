@@ -1,7 +1,7 @@
 package psi
 
 import (
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 type PAT Table

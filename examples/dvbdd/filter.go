@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/ziutek/dvb/linuxdvb/demux"
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/linuxdvb/demux"
+	"github.com/vitmod/godvb/ts"
 )
 
 func setFilter(dmxpath, dvrpath string, pids []int16) (ts.PktReader, demux.StreamFilter) {

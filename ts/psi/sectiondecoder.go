@@ -1,8 +1,8 @@
 package psi
 
 import (
-	"github.com/ziutek/dvb"
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb"
+	"github.com/vitmod/godvb/ts"
 )
 
 var (

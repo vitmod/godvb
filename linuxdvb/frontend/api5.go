@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 )
 
 type Device struct {

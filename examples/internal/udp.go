@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 func ListenUDP(laddr string, pids ...int16) (ts.PktReader, error) {

@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ziutek/dvb"
-	"github.com/ziutek/dvb/examples/internal"
-	"github.com/ziutek/dvb/ts"
-	"github.com/ziutek/dvb/ts/psi"
+	"github.com/vitmod/godvb"
+	"github.com/vitmod/godvb/examples/internal"
+	"github.com/vitmod/godvb/ts"
+	"github.com/vitmod/godvb/ts/psi"
 )
 
 func checkErr(err error) {

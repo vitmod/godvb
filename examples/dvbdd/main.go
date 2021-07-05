@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ziutek/dvb/linuxdvb/demux"
-	"github.com/ziutek/dvb/linuxdvb/frontend"
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/linuxdvb/demux"
+	"github.com/vitmod/godvb/linuxdvb/frontend"
+	"github.com/vitmod/godvb/ts"
 
-	"github.com/ziutek/dvb/examples/internal"
+	"github.com/vitmod/godvb/examples/internal"
 )
 
 func usage() {

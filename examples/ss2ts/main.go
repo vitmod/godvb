@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/ziutek/dvb/ts"
-	"github.com/ziutek/dvb/ts/psi"
+	"github.com/vitmod/godvb/ts"
+	"github.com/vitmod/godvb/ts/psi"
 	"io"
 	"log"
 	"os"

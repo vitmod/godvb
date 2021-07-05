@@ -1,7 +1,7 @@
 package ts
 
 import (
-	"github.com/ziutek/dvb"
+	"github.com/vitmod/godvb"
 	"io"
 	"os"
 	"syscall"

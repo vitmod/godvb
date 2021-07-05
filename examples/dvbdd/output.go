@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/ziutek/dvb/ts"
+	"github.com/vitmod/godvb/ts"
 )
 
 type outputFile struct {
